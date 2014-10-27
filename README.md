@@ -39,7 +39,8 @@ MySQL中文乱码可分为四级
 +--------------------------+----------------------------+
 ```
 - 更改latin1为utf-8
-```SET character_set_database='utf8';
+```
+SET character_set_database='utf8';
 SET character_set_server='utf8';
 ```
 
