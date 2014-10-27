@@ -63,6 +63,7 @@ show create table table_name;
 `
 ALTER TABLE tbl_name DEFAULT CHARACTER SET character_name [COLLATE...];
 `
+
 #### 客户端编码设置（以java为例）
 - 1:设置文件格式为utf-8
 - 2:为数据库连接url添加编码控制
