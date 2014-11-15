@@ -70,3 +70,5 @@ ALTER TABLE tbl_name DEFAULT CHARACTER SET character_name [COLLATE...];
 ```
 String url = "jdbc:mysql://localhost:3306/menagerie?useUnicode=true&&characterEncoding=utf-8";
 ```
+``` "jdbc:mysql://localhost:3306/menagerie?useUnicode=true&amp;characterEncoding=utf-8";
+```
